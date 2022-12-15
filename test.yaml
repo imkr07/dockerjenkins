@@ -5,4 +5,4 @@ metadata:
 spec:
  containers:
  - name: c1
- image: docdoom12345/dockerjenkins
+   image: docdoom12345/dockerjenkins
